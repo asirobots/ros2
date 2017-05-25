@@ -193,5 +193,5 @@ repositories:
     version: ros2
   vendor/console_bridge:
     type: git
-    url: https://github.com/ros/console_bridge.git
+    url: https://github.com/asirobots/console_bridge.git
     version: master
