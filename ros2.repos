@@ -125,7 +125,7 @@ repositories:
 #    version: master
   ros2/rmw_coredx:
     type: git
-    url: https://github.com/tocinc/rmw_coredx.git
+    url: https://github.com/asirobots/rmw_coredx.git
     version: master
 #  ros2/rmw_fastrtps:
 #    type: git
