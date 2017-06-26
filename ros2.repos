@@ -15,6 +15,10 @@ repositories:
     type: git
     url: https://github.com/ament/ament_package.git
     version: master
+  ament/ament_python:
+    type: git
+    url: https://github.com/ament/ament_python.git
+    version: master
   ament/ament_tools:
     type: git
     url: https://github.com/ament/ament_tools.git
@@ -50,10 +54,6 @@ repositories:
   ros2/ament_cmake_ros:
     type: git
     url: https://github.com/ros2/ament_cmake_ros.git
-    version: master
-  ros2/cli_tools:
-    type: git
-    url: https://github.com/ros2/cli_tools.git
     version: master
   ros2/common_interfaces:
     type: git
@@ -151,6 +151,10 @@ repositories:
     type: git
     url: https://github.com/ros2/ros1_bridge.git
     version: master
+  ros2/ros2cli:
+    type: git
+    url: https://github.com/ros2/ros2cli.git
+    version: master
   ros2/rosidl:
     type: git
     url: https://github.com/ros2/rosidl.git
@@ -163,6 +167,10 @@ repositories:
     type: git
     url: https://github.com/ros2/rosidl_typesupport.git
     version: coredx
+  ros2/sros2:
+    type: git
+    url: https://github.com/ros2/sros2.git
+    version: master
   ros2/system_tests:
     type: git
     url: https://github.com/ros2/system_tests.git
