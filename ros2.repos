@@ -138,7 +138,7 @@ repositories:
   ros2/rmw_implementation:
     type: git
     url: https://github.com/ros2/rmw_implementation.git
-    version: release-beta2
+    version: coredx
 #  ros2/rmw_opensplice:
 #    type: git
 #    url: https://github.com/ros2/rmw_opensplice.git
