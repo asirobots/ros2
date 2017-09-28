@@ -2,7 +2,7 @@ repositories:
   ament/ament_cmake:
     type: git
     url: https://github.com/asirobots/ament_cmake.git
-    version: master
+    version: release-beta3
   ament/ament_index:
     type: git
     url: https://github.com/ament/ament_index.git
@@ -114,7 +114,7 @@ repositories:
   ros2/rmw_coredx:
     type: git
     url: https://github.com/asirobots/rmw_coredx.git
-    version: master
+    version: release-beta3
   ros2/rmw_fastrtps:
     type: git
     url: https://github.com/ros2/rmw_fastrtps.git
@@ -122,7 +122,7 @@ repositories:
   ros2/rmw_implementation:
     type: git
     url: https://github.com/asirobots/rmw_implementation.git
-    version: coredx
+    version: release-beta3
   ros2/robot_model:
     type: git
     url: https://github.com/ros2/robot_model.git
@@ -150,7 +150,7 @@ repositories:
   ros2/rosidl_typesupport:
     type: git
     url: https://github.com/asirobots/rosidl_typesupport.git
-    version: coredx
+    version: release-beta3
   ros2/sros2:
     type: git
     url: https://github.com/ros2/sros2.git
