@@ -129,7 +129,7 @@ repositories:
     version: 0.4.0
   ros2/rmw_coredx:
     type: git
-    url: https://github.com/aisrobots/rmw_coredx.git
+    url: https://github.com/asirobots/rmw_coredx.git
     version: fa74b44130000c514b84837a242bab94671c7399
   ros2/rmw_fastrtps:
     type: git
