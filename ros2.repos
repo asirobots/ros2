@@ -130,7 +130,7 @@ repositories:
   ros2/rmw_coredx:
     type: git
     url: https://github.com/tocinc/rmw_coredx.git
-    version: ed10c736f58295fc6c51b9edb55dd744257159d9
+    version: 02f9debb343aae35dd10d3c741ed72d906a0ea6b
   ros2/rmw_fastrtps:
     type: git
     url: https://github.com/ros2/rmw_fastrtps.git
